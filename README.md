@@ -1,4 +1,4 @@
 opendl
 ======
 
-to implement a open deep learning system
+To implement an open deep learning system.
